@@ -1,0 +1,1 @@
+讲Python的string相关的方法，copy到Chez Scheme里面
