@@ -1,4 +1,4 @@
-(library (string)
+(library (py2chez string)
   (export string-startswith? string-endswith?)
   (import (chezscheme))
 
